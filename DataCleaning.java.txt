@@ -1,4 +1,5 @@
 //This program has two defects which needs to be fixed.
+// On 25 May defect 3792 is fixed
 import java.util.ArrayList;
 
 import java.util.List;

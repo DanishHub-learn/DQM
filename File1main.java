@@ -4,13 +4,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
  //Changes for Assingment 04 - temporary 
-<<<<<<< HEAD
-
-
-//Created on 01062025 
-=======
-// Changes made in main 
->>>>>>> main
 public class DataLoader {
  
     public static void main(String[] args) {
